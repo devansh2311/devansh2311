@@ -22,6 +22,5 @@ I'm an engineering student who is passionate about development and creating inno
 
 - 🔭 I’m currently an ECE student at Punjab Engineering College.
 - 📚 I’m currently working on problem solving and development skills.
-- 👨‍💻 All of my projects are available at https://myportfolio-devansh.netlify.app/
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/devansh-aggarwal-21809a257/) or mail to devanshaggarwal23@gmail.com
   ⭐️⭐️
